@@ -12,4 +12,5 @@ First Program with C++
 Simple C++ program.
 
 Started Codecademy's [C++ Course](https://www.codecademy.com/learn/learn-c-plus-plus)
+
 Followed Visual Studio Code's [C++ provisioning document](https://code.visualstudio.com/docs/languages/cpp)
