@@ -14,3 +14,16 @@ Simple C++ program.
 Started Codecademy's [C++ Course](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 Followed Visual Studio Code's [C++ provisioning document](https://code.visualstudio.com/docs/languages/cpp)
+
+This was done on a Mac Mini M1 Monterey using Clang from Xcode. The following instructions are for Mac.
+
+## Installation
+- Provision computer with C++ Enviornment
+- Download or clone this repo
+- Open project's root directory in terminal
+- Run `g++ -o ./helloworld ./helloworld.cpp` to compile
+
+## Usage
+- Open project's root directory in terminal
+- Run `./helloworld`
+- View result in terminal
